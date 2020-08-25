@@ -1,0 +1,13 @@
+Task C1: Top 10 Countries with the Largest Temperature Differences For Jan 2000 and Jan 2010
+Temperature Delta,Year Delta,Month,Country,Country_Code
+4.92(C) 40.85(F),10,Jan,Netherlands,NLD
+5.28(C) 41.50(F),10,Jan,Poland,POL
+6.14(C) 43.05(F),10,Jan,Norway,NOR
+6.23(C) 43.22(F),10,Jan,Denmark,DNK
+6.90(C) 44.42(F),10,Jan,Sweden,SWE
+6.91(C) 44.44(F),10,Jan,Belarus,BLR
+7.22(C) 45.00(F),10,Jan,Finland,FIN
+7.96(C) 46.32(F),10,Jan,Lithuania,LTU
+8.36(C) 47.04(F),10,Jan,Latvia,LVA
+8.95(C) 48.11(F),10,Jan,Estonia,EST
+
